@@ -14,7 +14,7 @@ Rq: s'assurer d'avoir une propriété `image` (au singulier) sockant qu'une imag
 
 Dans le `<script setup>` de [`/src/pages/index.vue`](/src/pages/index.vue), ajoutez :
 
-```ts
+```ts 
 const maisonsListe = /* coller ici le tableau d'objet */
 ```
 
